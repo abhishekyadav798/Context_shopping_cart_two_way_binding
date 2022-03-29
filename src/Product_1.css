@@ -1,0 +1,23 @@
+.cart_style{
+   
+    margin: auto;
+    /* width: 250px; */
+    height: auto;
+    border:  1px solid gray;
+}
+
+.img_style{
+    width: 200px;
+}
+
+.product_4_style{
+    width: 200px;
+}
+
+.product_style{
+    margin: auto;
+    width: 250px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    padding: 10px;
+}
